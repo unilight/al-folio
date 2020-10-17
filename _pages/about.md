@@ -20,3 +20,5 @@ I co-organized the [Voice Conversion Challenge 2020](http://www.vc-challenge.org
 My research interests include speech processing and machine learning. In particular, I am currently working on **speech synthesis** and **voice conversion** using deep neural network based models.
 
 I also love street dancing (locking). My team participated in a national dance contest. Check out the [video](https://www.youtube.com/watch?v=7kfGe7zuQ5g).
+
+My CV can be downloaded [here](./assets/pdf/CV-wchuang.pdf).
