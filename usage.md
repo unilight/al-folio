@@ -1,1 +1,1 @@
-How to deploy: `./bin/deploy`
+How to deploy: `./bin/deploy --user`
